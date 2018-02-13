@@ -18,7 +18,7 @@ module Diffbot
       #
       # @return [String]
       def path
-        "v22/analyze"
+        "v3/analyze"
       end
 
       private
